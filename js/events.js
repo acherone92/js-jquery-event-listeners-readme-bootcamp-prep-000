@@ -11,7 +11,7 @@ function frameIt(){
 }
 
 function pressIt(){
-  $('form')
+  $('form').
 }
 
 $(document).ready(function(){
