@@ -10,6 +10,10 @@ function frameIt(){
   });
 }
 
+function pressIt(){
+  $('form')
+}
+
 $(document).ready(function(){
 
 // call functions here
