@@ -12,7 +12,7 @@ function frameIt(){
 
 function pressIt(){
   $('form input').on('keydown', function(){
-    $('input')
+    if(e.which)
   });
 }
 
